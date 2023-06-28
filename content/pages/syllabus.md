@@ -19,7 +19,7 @@ You must complete [*8.321 Quantum Theory I*](https://ocw.mit.edu/courses/8-321-q
 
 ## Description
 
-*Relativistic Quantum Field Theory I* is a one-term self-contained subject in quantum field theory.
+*Relativistic Quantum Field Theory I* is a one-term self-contained subject in quantum field theory. Concepts and basic techniques are developed through applications in elementary particle physics and condensed matter physics.
 
 ## Topics
 
