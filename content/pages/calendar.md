@@ -14,157 +14,157 @@ LEC #
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
-Classical field theories and principle of locality
+Classical Field Theories and Principle of Locality
 {{< tdclose >}}{{< tdopen >}}
 Problem set 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
-Symmetries and conservation laws
+Symmetries and Conservation Laws
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
-Why quantum field theory
+Why Quantum Field Theory
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
-Canonical quantization of a free scalar field theory
+Canonical Quantization of a Free Scalar Field Theory
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
-Complex scalar field theory and anti-particle
+Complex Scalar Field Theory and Anti-Particle
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
-Propagators and Green functions 
+Propagators and Green Functions 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
-Interacting theories and S-matrix 
+Interacting Theories and S-Matrix 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
-Path integral formalism for non-relativistic quantum mechanics
+Path Integral Formalism for Non-Relativistic Quantum Mechanics
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Path integral formalism for QFT, and computation of time-ordered correlation functions
+Path Integral Formalism for QFT, and Computation of Time-Ordered Correlation Functions
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
-Time-ordered correlation functions in field theory
+Time-Ordered Correlation Functions in Field Theory
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
-Computation of correlation functions in perturbation theory and Feynman diagrams
+Computation of Correlation Functions in Perturbation Theory and Feynman Diagrams
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
-More on perturbation theory and Feynman diagrams 
+More on Perturbation Theory and Feynman Diagrams 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-Introducing Dirac equation 
+Introducing Dirac Equation 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
-Lorentz covariance of the Dirac equation
+Lorentz Covariance of the Dirac Equation
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
-Classical solutions of Dirac equations
+Classical Solutions of Dirac Equations
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
-Quantization of the Dirac theory
+Quantization of the Dirac Theory
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
-Chiral and Majorana spinors
+Chiral and Majorana Spinors
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
-Discrete symmetries 
+Discrete Symmetries 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
-Path integrals of fermions 
+Path Integrals of Fermions 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
-Maxwell theory and its canonical quantization
+Maxwell Theory and its Canonical Quantization
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
-Quantum Maxwell theory (continued)
+Quantum Maxwell Theory (continued)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
-Quantum electrodynamics
+Quantum Electrodynamics
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
-Cross section and decay rate 
+Cross Section and Decay Rate 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
-Elementary processes in QED (I)
+Elementary Processes in QED (I)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
-Elementary processes in QED (II)
+Elementary Processes in QED (II)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
-Quantum fluctuations and renormalization
+Quantum Fluctuations and Renormalization
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
