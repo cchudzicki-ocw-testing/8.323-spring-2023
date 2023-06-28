@@ -15,7 +15,11 @@ leftnav:
   name: Lecture Videos
   pageRef: /pages/lecture-videos
   weight: 40
+- identifier: e5c1baf8-67a8-4c32-86a4-d6c01c11aa9f
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 50
 - identifier: dab9a123-9ae2-4572-9ec2-bbca6deb99f1
   name: Problem Sets
   pageRef: /pages/problem-sets
-  weight: 50
+  weight: 60
