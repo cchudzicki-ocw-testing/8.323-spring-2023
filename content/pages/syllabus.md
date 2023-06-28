@@ -52,4 +52,4 @@ Peskin, Michael E., and Daniel V. Schroeder. *An Introduction to Quantum Field T
 
 ## Grading
 
-There is no exam for this course. The course grade will be based 100% on homework. The faculty may alter grades to reflect class participation, improvement, effort and other qualitative measures of performance.
+There is no exam for this course. The course grade will be based 100% on homework. The faculty may alter grades to reflect class participation, improvement, effort, and other qualitative measures of performance.
