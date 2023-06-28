@@ -23,32 +23,25 @@ You must complete [*8.321 Quantum Theory I*](https://ocw.mit.edu/courses/8-321-q
 
 ## Topics
 
-### The Klein-Gordon Field
-
-- Noether's theorem
-- The energy-momentum tensor
-- Particle creation by a classical source
-- The Casimir effect
-- Fields as operator-valued distributions
-
-### The Dirac Field
-
-- Dirac matrices
-- Dirac bilinear operators
-- Lorentz transformations for spin-½ particles and fields
-- Discrete symmetries of the Dirac field
-
-### Interacting Fields
-
-- Time-dependent perturbation theory
-- Wick's theorem
-- Feynman diagrams
-- Cross sections and decay rates
-- Wigner's representation theorem
+- Why quantum field theory
+    - se1  
+         
+    - se2
+- Free scalar field theories
+- se3
+- se4
+- Interactions: path integral approach
+- Dirac theory
+- Maxwell theory
+- Quantum electrodynamics
 
 ## Required Textbook
 
-Peskin, Michael E., and Daniel V. Schroeder. *An Introduction to Quantum Field Theory*. CRC Press, 1995. ISBN: 9780201503975.
+Peskin, Michael E., and Daniel V. Schroeder. *An Introduction to Quantum Field Theory*. CRC Press, 1995. ISBN: 9780201503975.  
+(A comprehensive and pedagogical treatment of QFT starting from the basics and reaching up to the physics of the standard model)
+
+Weinberg, Steven. *The Quantum Theory of Fields*, Volume 1: Foundations, Cambridge University Press 2005. ISBN: 9780521670531.  
+(A comprehensive and insightful treatment of the foundations of QFT)
 
 ## Grading
 
