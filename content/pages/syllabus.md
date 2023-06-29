@@ -23,33 +23,38 @@ You must complete [*8.321 Quantum Theory I*](https://ocw.mit.edu/courses/8-321-q
 
 ## Topics
 
-Why quantum field theory
-
-se1   
- 
-
-se2
-
-Free scalar field theories
-
-se3
-
-se4
-
-Interactions: path integral approach
-
-Dirac theory
-
-Maxwell theory
-
-Quantum electrodynamics
+- Why quantum field theory
+    - Principle of locality: classical field theories 
+    - Implications of relativistic symmetry
+    - Continuum limit of discrete systems
+- Free scalar field theories
+    - Canonical quantization of a free scalar field
+    - Complex scalar fields
+- Interactions: path integral approach
+    - Path integrals for quantum mechanics 
+    - Path integral for quantum scalar fields 
+    - Perturbation theory: Feynman diagrams 
+    - Cross section and scattering matrix
+- Dirac theory
+    - Dirac equation and its Lorentz covariance 
+    - Canonical quantization 
+    - Spin and statistics 
+    - Discrete symmetries 
+    - Path integrals for Dirac fields
+- Maxwell theory
+    - Gauge symmetry 
+    - Canonical quantization 
+    - Path integral quantization
+- Quantum electrodynamics
+    - Feynman rules 
+    - Elementary processes
 
 ## Required Textbook
 
-Peskin, Michael E., and Daniel V. Schroeder. *An Introduction to Quantum Field Theory*. CRC Press, 1995. ISBN: 9780201503975.   
+Peskin, Michael E., and Daniel V. Schroeder. *An Introduction to Quantum Field Theory*. CRC Press, 1995. ISBN: 9780201503975.    
 (A comprehensive and pedagogical treatment of QFT starting from the basics and reaching up to the physics of the standard model)
 
-Weinberg, Steven. *The Quantum Theory of Fields*, Volume 1: Foundations, Cambridge University Press 2005. ISBN: 9780521670531.   
+Weinberg, Steven. *The Quantum Theory of Fields*, Volume 1: Foundations, Cambridge University Press 2005. ISBN: 9780521670531.    
 (A comprehensive and insightful treatment of the foundations of QFT)
 
 ## Grading
