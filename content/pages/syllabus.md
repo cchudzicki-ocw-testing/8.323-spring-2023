@@ -24,8 +24,12 @@ You must complete [*8.321 Quantum Theory I*](https://ocw.mit.edu/courses/8-321-q
 ## Topics
 
 - Why quantum field theory
-    - Principle of locality: classical field theories 
-    - Implications of relativistic symmetry
+    - Principle of locality: classical field theories   
+        Action principle, Lagrangian and Hamiltonian  
+        Symmetry and Noether's theorem
+    - Implications of relativistic symmetry  
+        What is wrong of relativistic quantum mechanics  
+        Special relativity plus quantum mechanics requires quantum field theory
     - Continuum limit of discrete systems
 - Free scalar field theories
     - Canonical quantization of a free scalar field
@@ -51,10 +55,10 @@ You must complete [*8.321 Quantum Theory I*](https://ocw.mit.edu/courses/8-321-q
 
 ## Required Textbook
 
-Peskin, Michael E., and Daniel V. Schroeder. *An Introduction to Quantum Field Theory*. CRC Press, 1995. ISBN: 9780201503975.    
+Peskin, Michael E., and Daniel V. Schroeder. *An Introduction to Quantum Field Theory*. CRC Press, 1995. ISBN: 9780201503975.     
 (A comprehensive and pedagogical treatment of QFT starting from the basics and reaching up to the physics of the standard model)
 
-Weinberg, Steven. *The Quantum Theory of Fields*, Volume 1: Foundations, Cambridge University Press 2005. ISBN: 9780521670531.    
+Weinberg, Steven. *The Quantum Theory of Fields*, Volume 1: Foundations, Cambridge University Press 2005. ISBN: 9780521670531.     
 (A comprehensive and insightful treatment of the foundations of QFT)
 
 ## Grading
