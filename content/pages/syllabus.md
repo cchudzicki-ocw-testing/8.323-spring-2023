@@ -23,24 +23,33 @@ You must complete [*8.321 Quantum Theory I*](https://ocw.mit.edu/courses/8-321-q
 
 ## Topics
 
-- Why quantum field theory
-    - se1  
-         
-    - se2
-- Free scalar field theories
-- se3
-- se4
-- Interactions: path integral approach
-- Dirac theory
-- Maxwell theory
-- Quantum electrodynamics
+Why quantum field theory
+
+se1   
+ 
+
+se2
+
+Free scalar field theories
+
+se3
+
+se4
+
+Interactions: path integral approach
+
+Dirac theory
+
+Maxwell theory
+
+Quantum electrodynamics
 
 ## Required Textbook
 
-Peskin, Michael E., and Daniel V. Schroeder. *An Introduction to Quantum Field Theory*. CRC Press, 1995. ISBN: 9780201503975.  
+Peskin, Michael E., and Daniel V. Schroeder. *An Introduction to Quantum Field Theory*. CRC Press, 1995. ISBN: 9780201503975.   
 (A comprehensive and pedagogical treatment of QFT starting from the basics and reaching up to the physics of the standard model)
 
-Weinberg, Steven. *The Quantum Theory of Fields*, Volume 1: Foundations, Cambridge University Press 2005. ISBN: 9780521670531.  
+Weinberg, Steven. *The Quantum Theory of Fields*, Volume 1: Foundations, Cambridge University Press 2005. ISBN: 9780521670531.   
 (A comprehensive and insightful treatment of the foundations of QFT)
 
 ## Grading
