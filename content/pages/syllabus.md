@@ -24,17 +24,17 @@ You must complete [*8.321 Quantum Theory I*](https://ocw.mit.edu/courses/8-321-q
 ## Topics
 
 - Why quantum field theory
-    - Principle of locality: classical field theories     
-        Action principle, Lagrangian and Hamiltonian    
+    - Principle of locality: classical field theories      
+        Action principle, Lagrangian and Hamiltonian     
         Symmetry and Noether's theorem
-    - Implications of relativistic symmetry    
-        What is wrong of relativistic quantum mechanics    
+    - Implications of relativistic symmetry     
+        What is wrong of relativistic quantum mechanics     
         Special relativity plus quantum mechanics requires quantum field theory
-    - Continuum limit of discrete systems   
+    - Continuum limit of discrete systems    
         Many condensed matter applications
 - Free scalar field theories
-    - Canonical quantization of a free scalar field   
-        Particle interpretation   
+    - Canonical quantization of a free scalar field    
+        Particle interpretation    
         Propagators
     - Complex scalar fields
 - Interactions: path integral approach
@@ -54,17 +54,21 @@ You must complete [*8.321 Quantum Theory I*](https://ocw.mit.edu/courses/8-321-q
     - Path integral quantization
 - Quantum electrodynamics
     - Feynman rules 
-    - Elementary processes  
-        \\(e^+e^-\\rightarrow\\mu^+\\mu^-\\)  
+    - Elementary processes   
+        \\(e^+e^-\rightarrow\mu^+\mu^-\\)   
         Compton and inverse Compton scatterings
 
 ## Required Textbook
 
-Peskin, Michael E., and Daniel V. Schroeder. *An Introduction to Quantum Field Theory*. CRC Press, 1995. ISBN: 9780201503975.       
+Peskin, Michael E., and Daniel V. Schroeder. *An Introduction to Quantum Field Theory*. CRC Press, 1995. ISBN: 9780201503975.        
 (A comprehensive and pedagogical treatment of QFT starting from the basics and reaching up to the physics of the standard model)
 
-Weinberg, Steven. *The Quantum Theory of Fields*, Volume 1: Foundations, Cambridge University Press 2005. ISBN: 9780521670531.       
+Weinberg, Steven. *The Quantum Theory of Fields*, Volume 1: Foundations, Cambridge University Press 2005. ISBN: 9780521670531.        
 (A comprehensive and insightful treatment of the foundations of QFT)
+
+## Problem Sets
+
+Problem sets are a very important part of 8.323. We believe that sitting down yourself and trying to reason your way through a problem not only helps you learn the material deeply, but also develops analytical tools fundamental to a successful career in science.
 
 ## Grading
 
