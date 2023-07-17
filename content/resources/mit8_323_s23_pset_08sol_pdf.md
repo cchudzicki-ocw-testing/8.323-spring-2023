@@ -9,10 +9,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '8.323 Relativistic Quantum Field Theory I (Spring 2023), Problem Set 8 Solutions '
+title: 8.323 Relativistic Quantum Field Theory I (Spring 2023), Problem Set 8 Solutions
 uid: 3bc5018e-3f49-4d73-8674-cc9702fd53bb
 video_files:
   archive_url: ''
