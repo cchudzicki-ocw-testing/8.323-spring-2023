@@ -6,9 +6,13 @@ file: /courses/8-323-relativistic-quantum-field-theory-i-spring-2023/mit8_323_s2
 file_size: 38008
 file_type: image/jpeg
 image_metadata:
-  caption: ''
+  caption: 'A Feynman diagram describing gluon radiation in which an electron and
+    a positron collide, form a photon before decaying into an anti quark/quark pair.
+    Eventually, the anti quark releases a gluon. (This image is in the public domain.
+    Source: Wikimedia Commons.)'
   credit: ''
-  image-alt: ''
+  image-alt: Four arrowed lines connected by a wave line at the center and a horizontal
+    line with arrow at the bottom.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
