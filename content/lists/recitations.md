@@ -1,6 +1,6 @@
 ---
 content_type: resource-list
-description: ''
+description: Recitation 9 is not available.
 draft: false
 resources:
   content:
