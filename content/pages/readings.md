@@ -1,6 +1,7 @@
 ---
 content_type: page
-description: This section includes a reading list.
+description: This section includes required textbooks, recommended books, and readings
+  for problem sets.
 draft: false
 title: Readings
 uid: c287e252-5126-494c-92e0-fe9881783239
