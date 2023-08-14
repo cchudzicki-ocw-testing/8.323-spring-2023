@@ -1,8 +1,8 @@
 ---
 content_type: page
 description: This section provides the course description and information on course
-  meeting times, prerequisites, the required textbook, grading, grading, homework
-  policy, and the list of lecture topics.
+  meeting times, prerequisites, the required textbook, grading, homework policy, and
+  the list of lecture topics.
 draft: false
 title: Syllabus
 uid: e03db4ba-2cf4-4d09-af31-46c13a8d513b
