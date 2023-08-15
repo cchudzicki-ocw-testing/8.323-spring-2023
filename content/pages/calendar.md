@@ -34,12 +34,12 @@ Why Quantum Field Theory
 {{< tdclose >}}{{< tdopen >}}
 Canonical Quantization of a Free Scalar Field Theory
 {{< tdclose >}}{{< tdopen >}}
-Problem set 1 due    
+Problem set 1 due     
 Problem set 2 out
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
-Complex Scalar Field Theory and Anti-particles
+Complex Scalar Field Theory and Antiparticles
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -47,7 +47,7 @@ Complex Scalar Field Theory and Anti-particles
 {{< tdclose >}}{{< tdopen >}}
 Propagators and Green Functions 
 {{< tdclose >}}{{< tdopen >}}
-Problem set 2 due    
+Problem set 2 due     
 Problem set 3 out
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -60,7 +60,7 @@ Interacting Theories and S-matrix 
 {{< tdclose >}}{{< tdopen >}}
 Path Integral Formalism for Non-Relativistic Quantum Mechanics
 {{< tdclose >}}{{< tdopen >}}
-Problem set 3 due    
+Problem set 3 due     
 Problem set 4 out
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -73,7 +73,7 @@ Path Integral Formalism for QFT, and Computation of Time-Ordered Correlation Fun
 {{< tdclose >}}{{< tdopen >}}
 Time-Ordered Correlation Functions in Field Theory
 {{< tdclose >}}{{< tdopen >}}
-Problem set 4 due    
+Problem set 4 due     
 Problem set 5 out
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -86,7 +86,7 @@ Computation of Correlation Functions in Perturbation Theory and Feynman Diagrams
 {{< tdclose >}}{{< tdopen >}}
 More on Perturbation Theory and Feynman Diagrams 
 {{< tdclose >}}{{< tdopen >}}
-Problem set 5 due    
+Problem set 5 due     
 Problem set 6 out
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -99,7 +99,7 @@ Introducing the Dirac Equation 
 {{< tdclose >}}{{< tdopen >}}
 Lorentz Covariance of the Dirac Equation
 {{< tdclose >}}{{< tdopen >}}
-Problem set 6 due    
+Problem set 6 due     
 Problem set 7 out
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -112,7 +112,7 @@ Classical Solutions of Dirac Equations
 {{< tdclose >}}{{< tdopen >}}
 Quantization of the Dirac Theory
 {{< tdclose >}}{{< tdopen >}}
-Problem set 7 due    
+Problem set 7 due     
 Problem set 8 out
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -125,7 +125,7 @@ Chiral and Majorana Spinors
 {{< tdclose >}}{{< tdopen >}}
 Discrete Symmetries 
 {{< tdclose >}}{{< tdopen >}}
-Problem set 8 due    
+Problem set 8 due     
 Problem set 9 out
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
@@ -138,7 +138,7 @@ Path Integrals of Fermions 
 {{< tdclose >}}{{< tdopen >}}
 Maxwell Theory and its Canonical Quantization
 {{< tdclose >}}{{< tdopen >}}
-Problem set 9 due    
+Problem set 9 due     
 Problem set 10 out
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -151,7 +151,7 @@ Quantum Maxwell Theory (continued)
 {{< tdclose >}}{{< tdopen >}}
 Quantum Electrodynamics
 {{< tdclose >}}{{< tdopen >}}
-Problem set 10 due    
+Problem set 10 due     
 Problem set 11 out
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
@@ -164,7 +164,7 @@ Cross Section and Decay Rate 
 {{< tdclose >}}{{< tdopen >}}
 Elementary Processes in QED (I)
 {{< tdclose >}}{{< tdopen >}}
-Problem set 11 due    
+Problem set 11 due     
 Problem set 12 out
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
