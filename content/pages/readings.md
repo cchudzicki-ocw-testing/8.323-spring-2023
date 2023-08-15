@@ -22,13 +22,13 @@ Banks, Tom. *Modern Quantum Field Theory: A Concise Introduction*. Cambridge Uni
 
 Schwartz, Matthew. *Quantum Field Theory and the Standard Model*. Cambridge University Press, 2013. ISBN: 9781107034730. (A well-written introduction to QFT that emphasizes physical intuition alongside calculations. Self-contained, and covers both canonical quantization and the path integral approach.)
 
-Brown, Lowell S. *Quantum Field Theory*. Cambridge, UK: Cambridge University Press, 1994. ISBN: 9780521469463. )A modern path integral presentation of QFT. Covers QED but not QCD.)
+Brown, Lowell S. *Quantum Field Theory*. Cambridge, UK: Cambridge University Press, 1994. ISBN: 9780521469463. (A modern path integral presentation of QFT. Covers QED but not QCD.)
 
 Ramond, Pierre. *Field Theory: A Modern Primer* (second edition). Levant Books, 2007. ISBN: 9788187169840. (A book dealing efficiently with QFT in the path integral approach.)
 
 Ryder, Lewis. *Quantum Field Theory* (second edition). Cambridge University Press, 1996. ISBN: 9780521478144. (A modern pedagogical introduction to QFT including the Weinberg-Salam model and other selected topics.)
 
-Mandl, Franz and Graham Shaw. *Quantum Field Theory.* John Wiley & Sons, 1984. ISBN: 9780471906506. (A clear and concise introduction to the basic computations in quantum field theory.)
+Mandl, Franz, and Graham Shaw. *Quantum Field Theory.* John Wiley & Sons, 1984. ISBN: 9780471906506. (A clear and concise introduction to the basic computations in quantum field theory.)
 
 ## Readings for Problem Sets
 
@@ -39,17 +39,17 @@ Readings
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Problem Set 1
 {{< tdclose >}}{{< tdopen >}}
-\[P&S\] Sections 2.1–2.2      
+\[P&S\] Sections 2.1–2.2       
 \[SW\] Chapter 1
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Problem Set 2
 {{< tdclose >}}{{< tdopen >}}
-\[P&S\] Chapter 2      
+\[P&S\] Chapter 2       
 \[SW\] Chapter 1
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Problem Set 3
 {{< tdclose >}}{{< tdopen >}}
-\[P&S\] Chapter 2      
+\[P&S\] Chapter 2       
 \[SW\] Chapter 1 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Problem Set 4
