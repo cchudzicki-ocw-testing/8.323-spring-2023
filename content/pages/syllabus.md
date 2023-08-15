@@ -24,17 +24,17 @@ You must complete [*8.321 Quantum Theory I*](https://ocw.mit.edu/courses/8-321-q
 ## Topics
 
 - Why quantum field theory
-    - Principle of locality: classical field theories            
-        Action principle, Lagrangian and Hamiltonian           
+    - Principle of locality: classical field theories             
+        Action principle, Lagrangian and Hamiltonian            
         Symmetry and Noether's theorem
-    - Implications of relativistic symmetry           
-        What is wrong of relativistic quantum mechanics           
+    - Implications of relativistic symmetry            
+        What is wrong of relativistic quantum mechanics            
         Special relativity plus quantum mechanics requires quantum field theory
-    - Continuum limit of discrete systems          
+    - Continuum limit of discrete systems           
         Many condensed matter applications
 - Free scalar field theories
-    - Canonical quantization of a free scalar field          
-        Particle interpretation          
+    - Canonical quantization of a free scalar field           
+        Particle interpretation           
         Propagators
     - Complex scalar fields
 - Interactions: path integral approach
@@ -54,8 +54,8 @@ You must complete [*8.321 Quantum Theory I*](https://ocw.mit.edu/courses/8-321-q
     - Path integral quantization
 - Quantum electrodynamics
     - Feynman rules 
-    - Elementary processes         
-        \\(e^+e^-\rightarrow\mu^+\mu^-\\)         
+    - Elementary processes          
+        \\(e^+e^-\rightarrow\mu^+\mu^-\\)          
         Compton and inverse Compton scatterings
 
 ## Required Textbooks
@@ -72,7 +72,7 @@ This is particularly important for a subject such as quantum field theory which 
 
 We recognize that students also learn a great deal from talking to and working with each other. We therefore encourage each student to make his/her own attempt on every problem and then, having done so, to discuss the problems with one another and collaborate on understanding them more fully. The solutions you submit must reflect your own work. They must not be transcriptions or reproductions of other people's work. Plagiarism is a serious offense and is easy to recognize. Don't submit work which is not your own.
 
-Problem sets are normally posted on the course website on Monday and will be due on Monday one week later. Any late problem set will be only counted as half credit. For example, if you get 90% on a late problem set, it will only count as 45%. However, your lowest problem set score will be discarded at the end of the semester; only the remaining n - 1 will be used in determining your grade.
+Problem sets are normally posted on the course website on Monday and will be due on Monday one week later. Any late problem set will be only counted as half credit. For example, if you get 90% on a late problem set, it will only count as 45%. However, your lowest problem set score will be discarded at the end of the semester; only the remaining *n* − 1 will be used in determining your grade.
 
 ## Grading
 
