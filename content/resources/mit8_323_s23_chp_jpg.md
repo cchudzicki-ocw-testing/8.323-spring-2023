@@ -9,7 +9,7 @@ image_metadata:
   caption: 'A Feynman diagram describing gluon radiation in which an electron and
     a positron collide and form a photon before decaying into an antiquark/quark pair.
     Eventually, the antiquark releases a gluon. (This image is in the public domain.
-    Source: Wikimedia Commons.)'
+    Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Feynmann_Diagram_Gluon_Radiation.svg).)'
   credit: ''
   image-alt: Four arrowed lines connected by a wave line at the center and a horizontal
     line with arrow at the bottom.
