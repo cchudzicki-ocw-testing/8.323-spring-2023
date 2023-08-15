@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/relativistic-quantum-field-theory-i/1hdMv_QPfPys1IAoPag5eyQ33AAoai1qD/ocw_8323_lecture15_2023apr03.mp4
+file: /courses/8-323-relativistic-quantum-field-theory-i-spring-2023/ocw_8323_lecture15_2023apr03_360p_16_9.mp4
 file_size: 9885962414
 file_type: video/mp4
 image_metadata:
@@ -17,11 +17,11 @@ uid: 9a8e8811-f651-44bd-9b3c-9b315216d79e
 video_files:
   archive_url: ''
   video_captions_file: ''
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/RAyFaeJCYWA/default.jpg
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: ''
+  youtube_id: RAyFaeJCYWA
 ---
