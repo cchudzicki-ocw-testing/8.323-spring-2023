@@ -7,8 +7,8 @@ file_size: 38008
 file_type: image/jpeg
 image_metadata:
   caption: 'A Feynman diagram describing gluon radiation in which an electron and
-    a positron collide, form a photon before decaying into an anti quark/quark pair.
-    Eventually, the anti quark releases a gluon. (This image is in the public domain.
+    a positron collide and form a photon before decaying into an antiquark/quark pair.
+    Eventually, the antiquark releases a gluon. (This image is in the public domain.
     Source: Wikimedia Commons.)'
   credit: ''
   image-alt: Four arrowed lines connected by a wave line at the center and a horizontal
