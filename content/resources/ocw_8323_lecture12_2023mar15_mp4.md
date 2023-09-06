@@ -16,9 +16,9 @@ title: OCW_8.323_Lecture12_2023mar15.mp4
 uid: f098d05c-620a-46bb-bc81-79a9a6e442f6
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/8-323-relativistic-quantum-field-theory-i-spring-2023/1WB6HTPF7BWKu40TThcbcqPxBDRdEwd5N_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/m4salGLUIBg/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/8-323-relativistic-quantum-field-theory-i-spring-2023/1WB6HTPF7BWKu40TThcbcqPxBDRdEwd5N_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: ''
